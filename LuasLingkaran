@@ -3,4 +3,12 @@
 using namespace std;
 
 //deklarasi variabel global
-int phi, r^2;
+int phi, r;
+
+//implementasi fungsi dan prosedur
+void input(){
+    cout << "Masukkan phi : ";
+    cin >> phi;
+    cout << "Masukkan r : ";
+    cin >> r;
+}
