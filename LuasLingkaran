@@ -9,6 +9,6 @@ int phi, r;
 void input(){
     cout << "Masukkan phi : ";
     cin >> phi;
-    cout << "Masukkan r : ";
+    cout << "Masukkan jari-jari : ";
     cin >> r;
 }
