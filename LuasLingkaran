@@ -12,3 +12,6 @@ void input(){
     cout << "Masukkan jari-jari : ";
     cin >> r;
 }
+int luaslingkaran(int a,int b){
+    return a * r^2;
+}
